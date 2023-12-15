@@ -1,2 +1,10 @@
+<div align="center">
+
 # Gemini_LCM-LoRA
-Gemini with LCM-LoRA
+Gemini Pro with LCM-LoRA
+
+</div>
+
+---
+
+## Coming soon...
